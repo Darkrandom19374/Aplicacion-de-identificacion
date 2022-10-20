@@ -1,0 +1,22 @@
+.header_div {
+    background: rgb(255, 255, 255);
+    color: darkred;
+}
+
+body {
+    background: rgb(252, 197, 206);
+    font-family: "Fuzzy Bubbles";
+}
+
+.Copyright_footer {
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(255, 232, 236);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
+
